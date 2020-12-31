@@ -1,3 +1,7 @@
+<a href="https://project-types.github.io/#toy">
+  <img src="https://img.shields.io/badge/project%20type-toy-blue" alt="Toy Badge"/>
+</a>
+
 # Description
 
 This is a running list of various ideas that I come up with. 
