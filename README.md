@@ -250,6 +250,9 @@ I've tried to group the ideas into rough categories. The majority of them are te
 - [**_NA_**] `GrocerEZ`
     - Family/friend grocery list app. Firebase backend, basic JS/CSS frontend, shared list that users can easily edit (add, remove, change entry name). Can speed up shopping trips since you can split off into a group in pursuit of separate items, knowing that the list is updated in real time.
 
+- [**_NA_**] `InTouch`
+    - From what I've heard and experienced, it can be kind of difficult to keep in touch with old friends as we get older and people start to pair off, have kids, move across the country, etc. Why not start an email-based "life newsletter", where every few months, you email your list of subscribers -- frriends, family -- about how your life is going? This could serve to help maintain or even strengthen otherwise dwindling relationships, sparking conversations that might not have occurred otherwise. One could potentially use gentle, software-based "pokes" to remind oneself to send out an update if it's been awhile.
+
 ### Technology and Social Change
 
 - [**_DNF_**] `SDH -> Software-defined Housing`
