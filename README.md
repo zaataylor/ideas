@@ -276,6 +276,9 @@ I've tried to group the ideas into rough categories. The majority of them are te
 - [**_NA_**] `MathGraph`
     - A math concept web with a sleek, graph-based GUI and a fractal nature, meaning that you can expand a node for a given concept to get more specific/nitty-gritty information in the form of sub-concept nodes. Continue expansion ad-infinitum. Maybe mine data from Wikipedia? Not sure of the ethics/harm that would cause if it turns out to be a lot of data. I imagine the Math topic has thousands of articles and even more associated references. Maybe treating this more like a math personal knowledge base makes more sense.
 
+- [**_NA_**] `img2ascii`
+    - An application that takes an image file (PNG, JPEG) and produces an [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) representation of it.
+
 ## Writing
 
 - [**_NA_**] `"On Separation"`
