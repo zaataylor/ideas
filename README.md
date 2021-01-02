@@ -160,7 +160,7 @@ I've tried to group the ideas into rough categories. The majority of them are te
 
 ### Open Source
 
-- [**&check;**] [`Project Types`](project-types.github.io/)
+- [**&check;**] [`Project Types`](https://project-types.github.io/)
     - Realize the notion of the different open source project classifications that Nadia Eghbal talks about in Working In Public in a simple, usable format. Make GitHub stickers/badges that projects can put on their READMEs describing their project type, and make an associated website for it, too.
 
 - [**_NA_**] `NeXT Job`
