@@ -4,9 +4,11 @@
 
 # Description
 
-This is a running list of various ideas that I come up with. 
+This is a running list of various ideas that I think are worth sharing. I have either come up with these ideas or found them in other places. They range from personal project ideas to things that are more substantive. In the case that I found the idea elsewhere, I have done my best to identify the source.
 
-Ideas can be really, _really_ powerful, but they can also be useless if they never creep out from the dark recesses of our minds. Additionally, choosing which of our ideas to realize and which to cast aside is a hard problem. 
+# Motivation
+
+Ideas can be really, _really_ powerful, but they can also be useless if they never creep out from the dark recesses of our minds. Additionally, choosing which ideas to realize and which to cast aside is a hard problem. 
 
 However, I think that we can lower the mental and emotional burden of having too many ideas by sharing some of them so that others can, given enough inspiration, realize them. That is what this repo aims to do.
 
@@ -256,6 +258,9 @@ I've tried to group the ideas into rough categories. The majority of them are te
 
 - [**_NA_**] `InTouch`
     - From what I've heard and experienced, it can be kind of difficult to keep in touch with old friends as we get older and people start to pair off, have kids, move across the country, etc. Why not start an email-based "life newsletter", where every few months, you email your list of subscribers -- friends, family -- about how your life is going? This could serve to help maintain or even strengthen otherwise dwindling relationships, sparking conversations that might not have occurred otherwise. One could potentially use gentle, software-based "pokes" to remind oneself to send out an update if it's been awhile.
+
+- [**_NA_**] `SSNs -> Small Social Networks`
+    - This idea came from [this](https://runyourown.social/) article by Darius Kazemi. Essentially, the idea is to host a social network for yourself and a relatively small group of friends. It seems relatively straightforward, but I think there's a lot of potential for ideas such as this to gain more traction and public appeal in the future, especially now that many people are [reeling](https://www.wired.com/story/stop-doomscrolling/) from the mental/emotional toll incurred by participating in huge social media platforms like Twitter and Facebook. Small social networks offer an opportunity for experiencing deeper, more contextualized relationships with others online. Also, I'm fascinated by the fact that, as the article states, a small social network allows you to make custom features(!) and onboarding(!) for users.
 
 ### Technology and Social Change
 
