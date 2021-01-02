@@ -15,9 +15,9 @@ However, I think that we can lower the mental and emotional burden of having too
 # Format 
 
 I've tried to group the ideas into rough categories. The majority of them are tech- or software-related. Under each item, there is a brief (or not brief, depending on how inspired I felt at the time) description of what the idea entails. I've also added a brief label beside each idea name to indicate my state of progressing towards implementing/realizing the idea. The labels are:
-- ***&check;*** : **Done**. I've implemented a version of this idea and consider it to be finished.
+- **&check;** : **Done**. I've implemented a version of this idea and consider it to be finished.
 - **_WIP_** : **Work In Progress**. I'm _actively_ working on this idea, or will be actively working on it as soon as possible.
-- ****_DNF_**** : **Did Not Finish**. I'm _not_ actively working on this idea, but I was at one point.
+- **_DNF_** : **Did Not Finish**. I'm _not_ actively working on this idea, but I was at one point.
 - **_NA_** : **Not Attempted**. Coincidentally, this sounds like "nah", which could also reflect disinterest in some of the ideas labeled with this.
 
 # Ideas
@@ -58,7 +58,7 @@ I've tried to group the ideas into rough categories. The majority of them are te
 ## Software
 
 ### Automation
-- [****_DNF_****] `AE -> Automate Everything`
+- [**_DNF_**] `AE -> Automate Everything`
     - An “automation engine” that enables me to automate different parts of my life. In particular, one application that would be cool to see would be a meal prep bot of sorts:
         - I feed it information on what groceries I currently have in stock, and it then scours the web looking for recipes that match/use those ingredients. It then chooses 3-4 items which I can meal prep for the week, and generates a document containing each recipe’s ingredients, the website(s) where those ingredients were found, and any other relevant information related to preparing the food.
 
@@ -77,8 +77,11 @@ I've tried to group the ideas into rough categories. The majority of them are te
 - [**_NA_**] `slackli`
     - Slack command-line client with `more` style scrolling
 
-- [****_DNF_****] `cli-pkb`
+- [**_DNF_**] `cli-pkb`
     - A command-line PKB (personal knowledge base) tool
+
+- [**_NA_**] `mkdown-table-gen`
+    - A CLI generator of Markdown tables that uses [Tables Generator](https://www.tablesgenerator.com/markdown_tables#) as a backend. 
 
 ### Databases
 
@@ -146,7 +149,7 @@ I've tried to group the ideas into rough categories. The majority of them are te
 - [**_NA_**] `WATACULTURE!` _or_ `OpenCulture`
     - OpenStreetMap combined with stories and music about particular places (i.e. location-curated playlists). I'm thinking something along the lines of, for example, traveling to a mountainous part of NC and then having the app suggest you music by local musicians and/or providing you with literature that exemplifies some of the important/well-known ideas and culture of the area. This _could_ help bring back some of the uniqueness and individuality of towns/cities now that all are under the purview of search engines and can be nicely (but lossily) ["summed up"](https://www.robinsloan.com/notes/orthographic/) in terms of attractions, weather, and demographics -- or it could exacerbate it by seemingly further commodifying these places?
 
-- [****_DNF_****] `thisgardendoesntexist.net (GAN)`
+- [**_DNF_**] `thisgardendoesntexist.net (GAN)`
     - Basically [thiswaifudoesnotexist](https://www.thiswaifudoesnotexist.net/), but for images of gardens. This could even be extended to general landscapes.
 
 - [**_NA_**] `Pollen™️`
